@@ -273,7 +273,7 @@ function App() {
     console.log(filteredLocation);
   }
 
-  const apiKey = process.env.REACT_APP_GOOGLE_MAPS_API_KEY
+  const apiKey = process.env.NEXT_PUBLIC_GOOGLE_MAPS
   return (
     <>
       <Bar
