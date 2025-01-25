@@ -2,16 +2,8 @@ import { useEffect, useState } from "react";
 import axios from "axios";
 import React from "react";
 import { GoogleMap, LoadScript, Marker } from "@react-google-maps/api";
-import {
-  MapContainer,
-  TileLayer,
-  // Marker,
-  Popup,
-  useMap,
-  ZoomControl,
-} from "react-leaflet";
-import L from "leaflet"; // Import Leaflet for marker icons
-import "leaflet/dist/leaflet.css"; // Leaflet CSS
+
+
 import "./App.css";
 import impressions from "./Assets/impressions.svg";
 import Info from "./Assets/Info.png";
@@ -33,7 +25,6 @@ import Footer from "./components/Footer";
 import Carousel from "./components/Carousel";
 import popleft from "./Assets/popleft.PNG";
 import popr from "./Assets/popr.PNG";
-import { borderRadius, width } from "@mui/system";
 
 import PosterN from "./Assets/PosterN.png";
 import BulletinN from "./Assets/BulletinN.png";
