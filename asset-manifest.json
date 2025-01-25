@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/ABDULREHMAN211/AdvWeb/static/css/main.eec712f4.css",
+    "main.js": "/ABDULREHMAN211/AdvWeb/static/js/main.628991ed.js",
+    "static/js/453.57b8b76a.chunk.js": "/ABDULREHMAN211/AdvWeb/static/js/453.57b8b76a.chunk.js",
+    "static/media/bgcontact.PNG": "/ABDULREHMAN211/AdvWeb/static/media/bgcontact.38029459ce6374449e30.PNG",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/ABDULREHMAN211/AdvWeb/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/popleft.PNG": "/ABDULREHMAN211/AdvWeb/static/media/popleft.adec018e8d9f6384db12.PNG",
+    "static/media/caro.jpeg": "/ABDULREHMAN211/AdvWeb/static/media/caro.eb24030d7f08e197e8f5.jpeg",
+    "static/media/PosterN.png": "/ABDULREHMAN211/AdvWeb/static/media/PosterN.89ebf082321d7c4f217c.png",
+    "static/media/BulletinN.png": "/ABDULREHMAN211/AdvWeb/static/media/BulletinN.55068f84e91f640e65a9.png",
+    "static/media/fontawesome-webfont.eot": "/ABDULREHMAN211/AdvWeb/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/ABDULREHMAN211/AdvWeb/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/popr.PNG": "/ABDULREHMAN211/AdvWeb/static/media/popr.1b4635ddbe2f519518c8.PNG",
+    "static/media/carou.jpeg": "/ABDULREHMAN211/AdvWeb/static/media/carou.cd4e95e176892f7362ed.jpeg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/ABDULREHMAN211/AdvWeb/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/ABDULREHMAN211/AdvWeb/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/mainlogo.png": "/ABDULREHMAN211/AdvWeb/static/media/mainlogo.0c33a8cc701bc270daa6.png",
+    "static/media/logo.png": "/ABDULREHMAN211/AdvWeb/static/media/logo.8083ae738867292076ea.png",
+    "static/media/TerminaTest-Bold.otf": "/ABDULREHMAN211/AdvWeb/static/media/TerminaTest-Bold.fbe09ff096cdce4c04c0.otf",
+    "static/media/TerminaTest-Black.otf": "/ABDULREHMAN211/AdvWeb/static/media/TerminaTest-Black.b76d9318e4743a03755e.otf",
+    "index.html": "/ABDULREHMAN211/AdvWeb/index.html",
+    "static/media/money.svg": "/ABDULREHMAN211/AdvWeb/static/media/money.f9e0f62a156fbf59db4bb810c2a6f7b1.svg",
+    "static/media/impressions.svg": "/ABDULREHMAN211/AdvWeb/static/media/impressions.8d5e35b1dc2eec1a0d4d465ba8c0056f.svg",
+    "static/media/panelSize.svg": "/ABDULREHMAN211/AdvWeb/static/media/panelSize.a5d2841ce4e77b9075b1fc44c7fb01f2.svg",
+    "static/media/mediaStyle.svg": "/ABDULREHMAN211/AdvWeb/static/media/mediaStyle.f73fdcbd7ce1b6ab430db253c3fb5c9d.svg",
+    "static/media/locationmarker.svg": "/ABDULREHMAN211/AdvWeb/static/media/locationmarker.d800d952cf4ce8c50f2c446712839422.svg",
+    "static/media/bulletinproduct.svg": "/ABDULREHMAN211/AdvWeb/static/media/bulletinproduct.2525f807f0149184fdb56973d735795e.svg",
+    "static/media/digitalproduct.svg": "/ABDULREHMAN211/AdvWeb/static/media/digitalproduct.8a16ce128e7aa8e8075381af7332a761.svg",
+    "static/media/jrposterproduct.svg": "/ABDULREHMAN211/AdvWeb/static/media/jrposterproduct.258d29c302d1ba054eba5f2b5cad5086.svg",
+    "static/media/posterproduct.svg": "/ABDULREHMAN211/AdvWeb/static/media/posterproduct.87656cedc52042dab180312d8b1789b8.svg",
+    "main.eec712f4.css.map": "/ABDULREHMAN211/AdvWeb/static/css/main.eec712f4.css.map",
+    "main.628991ed.js.map": "/ABDULREHMAN211/AdvWeb/static/js/main.628991ed.js.map",
+    "453.57b8b76a.chunk.js.map": "/ABDULREHMAN211/AdvWeb/static/js/453.57b8b76a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eec712f4.css",
+    "static/js/main.628991ed.js"
+  ]
+}
