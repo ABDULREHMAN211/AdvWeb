@@ -14,7 +14,6 @@ import panelSize from "./Assets/panelSize.svg";
 import emailjs from "emailjs-com";
 
 import { Button } from "react-bootstrap";
-import Swal from "sweetalert2";
 import Bar from "./components/Bar";
 import Header from "./components/Header";
 import bulletinproduct from "./Assets/bulletinproduct.svg";
