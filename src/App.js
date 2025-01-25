@@ -273,7 +273,7 @@ function App() {
     console.log(filteredLocation);
   }
 
-  const apiKey = process.env.NEXT_PUBLIC_GOOGLE_MAPS
+
   return (
     <>
       <Bar
@@ -288,7 +288,7 @@ function App() {
         className="respabovemap"
       >
      
-        <LoadScript googleMapsApiKey={apiKey}>
+        <LoadScript googleMapsApiKey={process.env.REACT_APP_GOOGLE_MAPS_API_KEY}>
           <GoogleMap
             mapContainerStyle={containerStyle}
             center={mapCenter}
